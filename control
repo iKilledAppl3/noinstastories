@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.noinstastories
+Name: NoInstaStories
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove Instagram stories from your feed!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Website: http://www.twitter.com/iKilledAppl3
