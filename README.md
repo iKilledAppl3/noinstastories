@@ -1,7 +1,7 @@
 # NoInstaStories
 Remove the Instagram Stories from your Instagram Feed!
 
-# Licensed Under the Apache 2.0 Liscense
+# Licensed Under the Apache 2.0 License
 Follow what the LICENSE states and what not! 
 Please credit me if you use this code!
 
